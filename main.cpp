@@ -5,5 +5,6 @@ using namespace std;
 int main ()
 {
 	fn_from_h1 ();
+    
 	fn_from_h2 ();
 }
